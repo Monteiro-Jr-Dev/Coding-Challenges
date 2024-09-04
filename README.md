@@ -2,8 +2,8 @@
 Vou colocando aqui as minhas soluções dos desafios **Leetcode** e **Codewars**.
 
 ## Leetcode
-* [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
-* [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
-* [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+Two Sum | [Desafio](https://leetcode.com/problems/two-sum/description/) | [Resolução](https://www.google.com.br/)
+Add Two Numbers | [Desafio](https://leetcode.com/problems/add-two-numbers/description/) | [Resolução](https://www.google.com.br/)
+Longest Substring Without Repeating Characters | [Desafio](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Resolução](https://www.google.com.br/)
 
 ## Codewars
